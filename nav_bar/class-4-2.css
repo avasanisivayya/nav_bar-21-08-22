@@ -1,0 +1,15 @@
+.navbar{
+    border: 5px;
+    padding-top: 3px;
+    background-color: rgb(224, 210, 224);
+    font-style: oblique color solid red;
+    align-items: center;
+  
+}
+.dropdown-menu{
+    justify-content: right;
+    align-items: flex-start;
+}
+.nav_item{
+    justify-content: flex-end;
+}
